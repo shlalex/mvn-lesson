@@ -18,9 +18,11 @@ public class App
         dark.add("1VVVVV");
         dark.add("2VVVVV");
         dark.add("3VVVVV");
+        dark.add("4VVVVV");
+        dark.add("5VVVVV");
         for (String s : Arrays.asList(dark.get(2).toString(), dark.toString())) {
-            System.out.println(s);
-        }
+        System.out.println(s);
+    }
 
 
         //System.out.println( "bvvfdv");
